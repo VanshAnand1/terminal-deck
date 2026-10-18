@@ -1,0 +1,8 @@
+{
+  "buttons": [
+    { "name": "BUILD PROJECT", "command": "npm run build" },
+    { "name": "START SERVER", "command": "npm start" },
+    { "name": "RUN TESTS", "command": "npm test" },
+    { "name": "GIT STATUS", "command": "git status" }
+  ]
+}
